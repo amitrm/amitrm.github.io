@@ -6,7 +6,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Insight"
 title_separator          : "|"
-subtitle                 : "gateway to continual growth and enlightment"
+subtitle                 : "gateway to growth and enlightment"
 name                     : "Amit Mondal"
 description              : "a curated space reflecting my journey as a seasoned engineer and data scientist"
 url                      : "https://amitrm.github.io"
@@ -27,7 +27,7 @@ author:
   location         : "Chicago, US"
   email            :
   links:
-    - label: "amitrm.armondal@gmail.com"
+    - label: "amit.armondal@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:amit.armondal@gmail.com"
     - label: "amitrm.github.io"
