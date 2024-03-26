@@ -1,3 +1,13 @@
 main:
   - title: "home"
     url: /home/
+  - title: "education"
+    url: /education/
+  - title: "learning"
+    url: /learning/
+  - title: "blog"
+    url: /blog/
+  - title: "resume"
+    url: /resume/
+  - title: "contact"
+    url: /contact/

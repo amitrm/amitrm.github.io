@@ -4,9 +4,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Insight"
-title_separator          : "|"
-subtitle                 : "gateway to growth and enlightment"
+title                    : "insight"
+title_separator          : " • "
+subtitle                 : "gateway to growth and enlightenment"
 name                     : "Amit Mondal"
 description              : "a curated space reflecting my journey as a seasoned engineer and data scientist"
 url                      : "https://amitrm.github.io"
@@ -24,7 +24,7 @@ author:
   name             : "Amit Mondal"
   avatar           : "/assets/images/site/profile.jpg"
   bio              : "Data • Models • Visuals • Stories"
-  location         : "Chicago, US"
+  location         : "United States"
   email            :
   links:
     - label: "amit.armondal@gmail.com"

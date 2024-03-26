@@ -1,5 +1,5 @@
 ---
-title: "Welcome!"
+title: "Welcome"
 excerpt: ""
 author_profile: true
 layout : single
