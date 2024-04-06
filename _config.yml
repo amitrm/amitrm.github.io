@@ -25,14 +25,9 @@ author:
   avatar           : "/assets/images/site/profile.jpg"
   bio              : "Data • Models • Visuals • Stories"
   location         : "United States"
-  email            :
-  links:
-    - label: "amit.armondal@gmail.com"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:amit.armondal@gmail.com"
-    - label: "amitrm.github.io"
-      icon: "fas fa-fw fa-link"
-      url: "https://amitrm.github.io"
+  email            : "amit.armondal@gmail.com"
+  github           : "amitrm"
+  linkedin         : "armondal"
 
 
 # Reading Files

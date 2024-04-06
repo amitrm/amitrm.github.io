@@ -3,6 +3,20 @@ layout: single
 title: Education
 permalink: /education/
 author_profile: true
+toc: true
+toc_sticky: true
+sidebar:
+  nav: sidebar-sample
 ---
 
-I will showcase my academic profile in this page. I will add sufficient details about my academic journey under each institution. 
+## Master of Science
+
+Transportation and Urban Engineering <br>
+University of Connecticut <br>
+Connecticut, USA
+
+## Bachelor of Science
+
+Civil Engineering <br>
+Bangladesh University of Engineering and Technology <br>
+Dhaka, Bangladesh
